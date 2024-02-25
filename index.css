@@ -67,7 +67,7 @@
 }
 .home-branding {
   width: 120px;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 .home-burger-menu {
   display: flex;
@@ -956,7 +956,7 @@
   font-weight: 500;
 }
 .home-button1 {
-  background-color: #000000;
+  background-color: #141615;
 }
 .home-comparision {
   gap: var(--dl-space-space-fiveunits);
